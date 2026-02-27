@@ -30,6 +30,12 @@ This repository is a collection of 4 specialized Java console applications. Each
 - Built custom logic for string-to-number processing across different bases.
 - **Key Tech:** Base conversion algorithms, String manipulation.
 
+### 5. [SafeMove Backend](./SafeMove-Backend)
+*Focus: Java Web API & Relational Modeling*
+- Spring Boot backend mapped to SafeMove SQL Server schema (Account, Customer, Service, Survey, Contract, Payment...).
+- REST APIs for master data, survey request creation, contracts and payments.
+- **Key Tech:** Spring Boot, Spring Data JPA, SQL Server.
+
 ---
 
 ## 🛠 Skills Demonstrated
